@@ -65,7 +65,6 @@ This project applies **data preprocessing, machine learning, and deployment usin
 * Enter kilometers driven
 * Predict the resale value of the car
 
-![UI Screenshot](screenshot.png)
 
 ## 📊 Sample Prediction
 
@@ -81,3 +80,11 @@ This project demonstrates how **machine learning can be applied to real-world pr
 👨‍💻 **Author:** Sushant Kishan Rathod
 📧 Contact: [sushanrathod6288@gmail.com]
 🔗 GitHub: [https://github.com/Sushant-project62]
+
+**Output**
+
+ <img width="1005" height="552" alt="image" src="https://github.com/user-attachments/assets/aa2e6bc7-6155-418a-8ac4-47788f715bba" />
+ <img width="1005" height="475" alt="image" src="https://github.com/user-attachments/assets/aa1c8333-3674-4350-92a3-f98393e716c4" />
+
+
+
