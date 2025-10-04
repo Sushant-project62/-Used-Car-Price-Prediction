@@ -1,0 +1,116 @@
+body {
+    background-image:url(https://axleaddict.com/.image/t_share/MTk4NTE5NTU3MDY3OTA4NTQ3/man-gives-tour-of-the-most-exclusive-car-dealership-in-the-country.jpg); /* Set a light background color for the body */
+    background-size: cover; /* Cover the entire container with the background image */
+    background-position: center center; /* Center the background image */
+    background-repeat: no-repeat; /* Do not repeat the background image */
+    border-radius: 10px; /* Add rounded corners to the container */
+    padding: 30px; /* Add padding inside the container */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Add a subtle shadow effect */
+    text-align: center; /* Center align text inside the container */
+    color: #ffffff; /* Set white text color */
+    padding-left: 23%;
+    
+}
+
+
+.container {
+    margin-top:auto; /* Adjust the margin from the top */
+    background-color:transparent; /* Set the background image for the container */
+    background-size: cover; /* Cover the entire container with the background image */
+    background-position: center center; /* Center the background image */
+    background-repeat: no-repeat; /* Do not repeat the background image */
+    border-radius: 10px; /* Add rounded corners to the container */
+    padding: 30px; /* Add padding inside the container */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Add a subtle shadow effect */
+    text-align: right; /* Center align text inside the container */
+    color: hwb(0 0% 100%); /* Set white text color */
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bold;
+    font-size: large;
+    height: auto; /* Set the height of the container */
+    width: 50% /* Set the width of the container */
+}
+.card-header{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bold;
+    font-size: 50%;
+    background-color: transparent;
+} 
+.row{
+    margin-top: 0px;
+    width:900px;
+   padding-right: 100px;
+
+}
+.col-md-10 form-group{
+    position:center;
+    text-align: right;
+    padding-left: 500px;
+    padding-top: 50px;
+
+}
+.card-body {
+    
+    background-image:url(https://hdqwalls.com/wallpapers/light-abstract-simple-background-iv.jpg);/* Set a blue background color for the header and body */
+    background-size: cover; /* Cover the entire container with the background image */
+    background-position: center center; /* Center the background image */
+    background-repeat: no-repeat;
+    color:#fffefe; /* Set white text color */
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border-radius: 10px 10px 0 0; /* Add rounded corners to the top of the card */
+}
+
+.card-body {
+    padding-top: 50px;
+    padding: 20px; /* Add padding inside the card body */
+}
+
+.card-body input[type="text"], .card-body select {
+    
+    width: 100%; /* Make input fields and select elements full-width */
+    margin-bottom: 10px; /* Add spacing between input fields and select elements */
+    height: 100%;
+    font-size: 100%;
+}
+
+.btn-primary {
+    background-color: #28a74600; /* Set a green background color for primary buttons */
+    border-color: #28a74600; /* Set border color same as background color */
+}
+
+
+.btn-primary:hover {
+    background-color: #fffffffd; /* Darken the background color on hover */
+    border-color: hwb(0 100% 0% / 0.947); /* Darken the border color on hover */
+}
+
+#prediction {
+    font-size: 100%; /* Increase font size for the prediction text */
+    font-weight: bold; /* Make the prediction text bold */
+}
+form {
+    font-size: 30px; /* Adjust the font size as needed */
+    padding-left: 10%;
+    
+}
+
+label {
+    display: block;
+    margin-bottom: 2px;
+}
+
+input, select, textarea {
+    font-size: 50%;
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: 50px;
+}
+.btn.btn-primary.form-control b {
+    font-size: 25px; /* Adjust the font size as needed */
+    margin-top: 5%;
+    /* Additional styling for the button text if needed */
+    
+}
